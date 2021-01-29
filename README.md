@@ -5,4 +5,5 @@
  
 Essa linha foi adicionada diretamente do site GitHub.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Flinuxmemes%2Fcomments%2F8ocxfc%2Fnew_github_octocat%2F&psig=AOvVaw0K_fQGGSSoJeKrWf-Oq0QA&ust=1612036882310000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjsysX3we4CFQAAAAAdAAAAABAD"/>
+<blockquote class="reddit-card" data-card-created="1611951559"><a href="https://www.reddit.com/r/linuxmemes/comments/8ocxfc/new_github_octocat/">New GitHub Octocat</a> from <a href="http://www.reddit.com/r/linuxmemes">r/linuxmemes</a></blockquote>
+<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
